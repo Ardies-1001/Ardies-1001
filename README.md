@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="Ardies-1001/Ardies-1001"><img src="https://api.daily.dev/devcards/1026d1097e5846b396422ca4565b385c.png?r=shf" width="400" alt="Ardies-1001/Ardies-1001"/></a>
+
+<a href="Ardies-1001/Ardies-1001"><img src="https://api.daily.dev/devcards/v2/322wH5pn5X3l52HwrNZPR.png?type=default&r=m8i" width="400" alt="Ardies-1001/Ardies-1001"/></a>
